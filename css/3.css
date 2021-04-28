@@ -21,8 +21,8 @@
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
-    border:10px outset white;
-
+    border:10px outset pink;
+   box-shadow:-5px 0px 100px #fcfc02;
 }
 #top{ /*标题*/
     user-select: none;/*无法选中*/
